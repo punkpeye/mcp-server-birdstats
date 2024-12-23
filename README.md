@@ -6,6 +6,8 @@
 
 This MCP plugin allows you to analyze BirdNET-Pi/BirdWeather detections by connecting them with eBird's extensive database. 
 
+<a href="https://glama.ai/mcp/servers/qecq4o25i1"><img width="380" height="200" src="https://glama.ai/mcp/servers/qecq4o25i1/badge" alt="mcp-server-birdstats MCP server" /></a>
+
 ## Features
 
 - Natural language interface for querying birdnet-pi / birdweather, and eBird data
